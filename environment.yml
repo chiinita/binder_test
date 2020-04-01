@@ -1,0 +1,41 @@
+name: base
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - conda
+  - python=3.7
+  - conda-env
+  - conda-build
+  - conda-verify
+  - anaconda-navigator
+  - navigator-updater
+  - opencv
+  - folium
+  - ipywidgets[version='>=7.5']
+  - ipyvolume
+  - ipyleaflet
+  - plotly
+  - jupyterlab=1.0
+  - vega_datasets
+  - cartopy
+  - nodejs
+  - geopandas
+  - beautifulsoup4
+  - html5lib
+  - basemap
+  - scrapy
+  - scikit-learn
+  - bqplot
+  - sidecar
+  - wordcloud
+  - librosa
+  - spacy
+  - jupyterlab-plotly-extension
+  - plotly_express
+  - chart-studio
+  - nltk
+  - rdflib
+  - torchvision
+  - pytorch
+prefix: /Users/CRT/anaconda3
