@@ -1,0 +1,11 @@
+name: test_binder
+channels:
+  - defaults
+dependencies:
+  - ipython
+  - notebook
+  - jupyterlab
+  - plotly=4.6.0
+  - pandas
+  - folium
+prefix: /Users/rhozeta/anaconda3/envs/test_binder
